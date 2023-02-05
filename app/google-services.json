@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "623988025080",
+    "firebase_url": "https://login1-b93ef-default-rtdb.firebaseio.com",
+    "project_id": "login1-b93ef",
+    "storage_bucket": "login1-b93ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623988025080:android:b1e7bfdadfaa25b8f7bd0d",
+        "android_client_info": {
+          "package_name": "com.example.notepasswordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623988025080-u9a1kn866la7bmu2gp0ecuhgequgflkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2bcvLgmtFo9jIIPHlyIEVvRgDAspUeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623988025080-u9a1kn866la7bmu2gp0ecuhgequgflkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
